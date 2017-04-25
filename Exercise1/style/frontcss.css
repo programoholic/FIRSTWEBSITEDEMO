@@ -1,0 +1,18 @@
+body
+{
+	background-color:  	#D3D3D3;
+
+}
+div
+{
+	margin-left: 400px;
+	margin-right: 400px;
+	
+}
+p.quote{
+
+     border:3px;
+	border-style: solid;
+	border-color: white;
+	padding: 20px;
+}
